@@ -44,3 +44,5 @@ Download the complete github repository with the follwing command to a chosen lo
 - The restructured text files should now be in 
 
             /pathtomainfolder/restruct/restructured 
+
+For any questions or suggestions, pleas send an email to: m.y.karimi@student.vu.nl
