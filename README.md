@@ -9,13 +9,13 @@ This package restructs a texts that contains foonotes within the text. This pack
 - Vrije Universiteit Amsterdam
 
 ##Requirements
-- OS X or Linux OS (UbuntuGNOME v14.02 for example) installed
+- Mac OS X Terminal or Linux OS Terminal installed
 - Installed version of Python 3.0 or higher (script was built on 3.4)
-- KafNafParser for Python (https://github.com/cltl/KafNafParserPy)
+- KafNafParser for Python (which can be installed by the following command):
 
             - pip install KafNafParserPy
 
-- Natural Language Processing Toolkit
+- Natural Language Processing Toolkit (which can be installed by the following command)
 
             - pip install nltk
 
@@ -24,6 +24,24 @@ This package restructs a texts that contains foonotes within the text. This pack
 
 
 ##Setup
-Download the complete github repository with the follwing command:
+Download the complete github repository with the follwing command to a chosen location:
 
             - git clone https://github.com/mykarimi/refstructure
+            
+##Quick startup guide
+- In order to run the Reference Restructure Module, the user must go to the main folder of the module
+
+            - cd location_of_folder/refsructure
+            
+- Put the textfiles that you want to proces in the folder
+
+            - refstruct/unstructured
+
+- When in the main folder run the command
+
+            - ./resfstruct.sh
+            
+- The restructured text files should now be in 
+
+            - /pathtomainfolder/restruct/restructured 
+            
