@@ -17,7 +17,7 @@ This package restructs a texts that contains foonotes within the text. This pack
 
 - Natural Language Processing Toolkit (which can be installed by the following command)
 
-            - pip install nltk
+            pip install nltk
 
 - XML v1.0 or higher
 - Text editor (Sublime Text 2, gedit)
@@ -26,22 +26,21 @@ This package restructs a texts that contains foonotes within the text. This pack
 ##Setup
 Download the complete github repository with the follwing command to a chosen location:
 
-            - git clone https://github.com/mykarimi/refstructure
+            git clone https://github.com/mykarimi/refstructure
             
 ##Quick startup guide
 - In order to run the Reference Restructure Module, the user must go to the main folder of the module
 
-            - cd location_of_folder/refsructure
+            cd location_of_folder/refsructure
             
 - Put the textfiles that you want to proces in the folder
 
-            - refstruct/unstructured
+            refstruct/unstructured
 
 - When in the main folder run the command
 
-            - ./resfstruct.sh
+            ./resfstruct.sh
             
 - The restructured text files should now be in 
 
-            - /pathtomainfolder/restruct/restructured 
-            
+            /pathtomainfolder/restruct/restructured 
