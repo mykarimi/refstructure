@@ -13,7 +13,7 @@ This package restructs a texts that contains foonotes within the text. This pack
 - Installed version of Python 3.0 or higher (script was built on 3.4)
 - KafNafParser for Python (which can be installed by the following command):
 
-            - pip install KafNafParserPy
+            pip install KafNafParserPy
 
 - Natural Language Processing Toolkit (which can be installed by the following command)
 
