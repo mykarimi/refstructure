@@ -1,4 +1,4 @@
-Referemce Restructuring Module version 3.0
+#Referemce Restructuring Module version 3.0
 
 This package restructs a texts that contains foonotes within the text. This package uses the nltk toolkit to tokenize sentences and replace the footnotes to the end of the document. The script is not generic, it is only applicabel to texts that are of the same format as the example.in.txt that can be found in the unstructured/ folder
 
